@@ -1,0 +1,11 @@
+.form {
+    width: 60%;
+    margin-top: 40px;
+    margin-left: 60px;
+    padding: 16px 20px;
+    border-radius: 4px;
+    background-color: #999fb0;
+}
+select{
+    margin: 20px;
+}
